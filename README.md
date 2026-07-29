@@ -10,33 +10,23 @@
 
 <br/><br/>
 
-<!-- TODO: replace these with your real links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B3654?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-B08D57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3654?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Resume](https://img.shields.io/badge/Resume-B08D57?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1B3654?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+<p align="center">
+  <a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/-Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=B08D57&labelColor=0B1120"/></a>
+  <a href="mailto:siddharthmohite.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-0B1120?style=for-the-badge&logo=gmail&logoColor=B08D57&labelColor=0B1120"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=B08D57&labelColor=0B1120"/></a>
+  <a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/-Resume-0B1120?style=for-the-badge&logo=readdotcv&logoColor=B08D57&labelColor=0B1120"/></a>
+</p>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mohitesiddharth&style=for-the-badge&color=1B3654&label=PROFILE+VIEWS" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/mohitesiddharth?style=for-the-badge&color=B08D57&labelColor=1B3654" alt="followers"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=1B3654" alt="open to work"/>
 
 </div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-<!-- Quick nav -->
-<div align="center">
-
-**[About](#-about-me)** · **[Focus](#-currently-focused-on)** · **[Journey](#%EF%B8%8F-my-journey)** · **[Tech Stack](#%EF%B8%8F-tech-stack)** · **[Projects](#-featured-projects)** · **[Certifications](#-certifications--achievements)** · **[GitHub Stats](#-github-analytics)** · **[Connect](#-lets-connect)**
-
-</div>
 
 <br/>
 
@@ -206,12 +196,6 @@ React, Node.js, MongoDB, REST APIs
 
 `MongoDB` `Express` `React` `Node.js` `RAG` `LLM APIs`
 
-<br/>
-
-<!-- TODO: replace # with your actual repo/demo links -->
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
-
 </td>
 <td width="50%" valign="top">
 <h3>💻 Code Collab</h3>
@@ -225,11 +209,6 @@ React, Node.js, MongoDB, REST APIs
 <br/>
 
 `MongoDB` `Express` `React` `Node.js` `Socket.io`
-
-<br/>
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 </tr>
@@ -247,11 +226,6 @@ React, Node.js, MongoDB, REST APIs
 
 `MongoDB` `Express` `React` `Node.js`
 
-<br/>
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
-
 </td>
 <td width="50%" valign="top">
 <h3>⌨️ Sokudo League</h3>
@@ -266,11 +240,6 @@ React, Node.js, MongoDB, REST APIs
 
 `MongoDB` `Express` `React` `Node.js`
 
-<br/>
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
-
 </td>
 </tr>
 </table>
@@ -280,21 +249,6 @@ React, Node.js, MongoDB, REST APIs
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## 🏆 Certifications & Achievements
-
-<!-- TODO: add/remove rows to match what you actually hold -->
-<div align="center">
-
-| Certification / Achievement | Issuer | Year |
-|---|---|---|
-| _e.g. Full-Stack Web Development_ | _e.g. Udemy / Coursera_ | _2025_ |
-| _e.g. Java DSA Specialization_ | _e.g. GeeksforGeeks_ | _2024_ |
-| _e.g. Hackathon Finalist_ | _e.g. Smart India Hackathon_ | _2025_ |
-
-</div>
 
 <br/>
 
@@ -353,12 +307,22 @@ React, Node.js, MongoDB, REST APIs
 
 <div align="center">
 
-I'm always open to interesting conversations, collaboration, or full-time opportunities.
-Reach out — I usually reply fast ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3654,100:B08D57&height=90&section=header" width="60%"/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitesiddharth)
+### 💬 Got an idea, a role, or just want to talk tech?
+
+I'm always open to interesting conversations, collaboration, or full-time opportunities.
+**Reach out — I usually reply fast ⚡**
+
+<br/>
+
+<a href="mailto:siddharthmohite.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B3654"/></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B3654"/></a>
+<a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=B08D57"/></a>
+
+<br/><br/>
+
+<i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
 
 </div>
 
