@@ -1,26 +1,23 @@
 <div align="center">
 
-<pre>
-╭──────────────────────────────────────────────────────────╮
-│  ~/siddharth-mohite  $  whoami                            │
-│                                                            │
-│  > Siddharth Mohite                                       │
-│  > Full-Stack Developer · MERN · AI-Integrated Web Apps   │
-│  > Based in Pune, India 🇮🇳                                 │
-╰──────────────────────────────────────────────────────────╯
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=B08D57&center=true&vCenter=true&width=650&lines=Architecting+ideas+into+scalable+software;Building+production-grade+MERN+applications;Integrating+AI+%2F+RAG+into+real+products;Owning+features+from+design+to+deployment;Always+shipping.+Always+learning." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1B3654,100:B08D57&height=230&section=header&text=Siddharth%20Mohite&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=56&descSize=18" width="100%"/>
 
 <br/>
 
-<!-- TODO: replace # / your-portfolio-url.com with your real links once ready -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-coming%20soon-1B3654?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:siddharthmohite.dev@gmail.com"><img src="https://img.shields.io/badge/Email-B08D57?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-1B3654?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/GitHub-B08D57?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2800&pause=900&color=B08D57&center=true&vCenter=true&width=700&lines=Architecting+ideas+into+scalable+software+%F0%9F%9A%80;Building+production-grade+MERN+applications;Integrating+AI+%2F+RAG+into+real+products;Owning+features+from+design+to+deployment;Always+shipping.+Always+learning." alt="Typing SVG" />
+</a>
 
 <br/><br/>
+
+<!-- TODO: replace these with your real links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B3654?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-B08D57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3654?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Resume](https://img.shields.io/badge/Resume-B08D57?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1B3654?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mohitesiddharth&style=for-the-badge&color=1B3654&label=PROFILE+VIEWS" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/mohitesiddharth?style=for-the-badge&color=B08D57&labelColor=1B3654" alt="followers"/>
@@ -28,103 +25,118 @@
 
 </div>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+<!-- Quick nav -->
 <div align="center">
 
-`ABOUT`&nbsp;·&nbsp;`NOW`&nbsp;·&nbsp;`JOURNEY`&nbsp;·&nbsp;`STACK`&nbsp;·&nbsp;`PROJECTS`&nbsp;·&nbsp;`CERTS`&nbsp;·&nbsp;`STATS`&nbsp;·&nbsp;`CONNECT`
-<br/>
-<sub>[jump to: <a href="#-about">about</a> · <a href="#-now">now</a> · <a href="#%EF%B8%8F-journey">journey</a> · <a href="#%EF%B8%8F-stack">stack</a> · <a href="#-projects">projects</a> · <a href="#-certifications--achievements">certs</a> · <a href="#-stats">stats</a> · <a href="#-connect">connect</a>]</sub>
+**[About](#-about-me)** · **[Focus](#-currently-focused-on)** · **[Journey](#%EF%B8%8F-my-journey)** · **[Tech Stack](#%EF%B8%8F-tech-stack)** · **[Projects](#-featured-projects)** · **[Certifications](#-certifications--achievements)** · **[GitHub Stats](#-github-analytics)** · **[Connect](#-lets-connect)**
 
 </div>
 
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
+## 🧭 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="coding gif"/>
+
+```yaml
+whoami:
+  name: "Siddharth Mohite"
+  role: "Full-Stack Developer (MERN)"
+  based_in: "Pune, India"
+  currently_building: "AI-powered document intelligence tools"
+  currently_learning: ["System Design", "Advanced RAG pipelines", "Cloud Deployment"]
+  languages: ["Java", "JavaScript"]
+  philosophy: "Ship end-to-end — design, build, deploy, own it."
 ```
 
-## 📖 About
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-**Full-stack developer who ships end-to-end** — design, backend, frontend, and deployment, owned solo.
-
-- 🎓 B.E. Computer Engineering @ NBN Sinhgad School of Engineering, Pune *(CGPA: 8.75)* — **Graduated 2026**
+- 🎓 B.E. in Computer Engineering @ NBN Sinhgad School of Engineering, Pune *(CGPA: 8.75)* — **Graduated**
+- 💼 Independently architected & shipped **production-grade** web apps end-to-end
 - 🧠 Strong fundamentals in **Java, DSA & OOP**, applied to real scalable systems
 - 🤖 Practical experience integrating **LLM APIs & Retrieval-Augmented Generation**
 - 🎯 Actively seeking a full-time **Software Engineer / Web Developer** role
-- ⚡ Fun fact: built a real-time multiplayer typing game *and* a live collaborative code editor — concurrency and speed excite me
+- ⚡ Fun fact: I've built a real-time multiplayer typing game *and* a live collaborative code editor — speed and concurrency excite me
 
-</td>
-<td width="45%" valign="top">
+<br clear="right"/>
 
-```json
-{
-  "role": "Full-Stack Developer (MERN)",
-  "focus": "AI-powered document intelligence",
-  "learning": [
-    "System Design",
-    "Advanced RAG pipelines",
-    "Cloud Deployment"
-  ],
-  "languages": ["Java", "JavaScript"],
-  "philosophy": "Ship it. Own it."
-}
-```
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
-## 📍 Now
+## 🎯 Currently Focused On
 
-<!-- "now page" style — update this whenever your focus shifts -->
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="25%">🧠<br/><b>Building</b><br/><sub>AI-powered document intelligence tools</sub></td>
-<td align="center" width="25%">📚<br/><b>Learning</b><br/><sub>System Design & advanced RAG pipelines</sub></td>
-<td align="center" width="25%">🤝<br/><b>Open To</b><br/><sub>Full-time SWE / Web Developer roles</sub></td>
-<td align="center" width="25%">💬<br/><b>Ask Me About</b><br/><sub>React, Node.js, MongoDB, REST APIs</sub></td>
+<td align="center" width="25%">
+
+**🧠 Building**
+<br/>
+AI-powered document intelligence tools
+
+</td>
+<td align="center" width="25%">
+
+**📚 Learning**
+<br/>
+System Design & advanced RAG pipelines
+
+</td>
+<td align="center" width="25%">
+
+**🤝 Open To**
+<br/>
+Full-time SWE / Web Developer roles
+
+</td>
+<td align="center" width="25%">
+
+**💬 Ask Me About**
+<br/>
+React, Node.js, MongoDB, REST APIs
+
+</td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🗺️ Journey
+<br/>
+
+## 🗺️ My Journey
 
 ```text
-2020 ── Started Diploma in Computer Technology
-        Sou. Venutai Chavan Polytechnic, Pune (86.20%)
-
-2022 ── Python Developer — Infeanet Digital Solution & Web Media
-        Built Django apps · Drove SEO strategy
-
-2023 ── Began B.E. in Computer Engineering
-        NBN Sinhgad School of Engineering, Pune
-
-2024 ── Frontend Intern — Algorithm Electronics
-        Handled HTML, CSS & frontend development
-
-2025 ── Built DocMind, Code Collab, Sokudo League & more
-        Explored RAG pipelines + real-time systems
-
-2026 ── Graduated B.E. · Looking for full-time SWE roles 🚀
+2020 ──┬─ Started Diploma in Computer Technology
+       │   Sou. Venutai Chavan Polytechnic, Pune  (86.20%)
+       │
+2022 ──┼─ Python Developer — Infeanet Digital Solution & Web Media
+       │   Built Django apps · Drove SEO strategy
+       │
+2023 ──┼─ Began B.E. in Computer Engineering
+       │   NBN Sinhgad School of Engineering, Pune
+       │
+2024 ──┼─ Frontend Intern — Algorithm Electronics
+       │   Handled HTML, CSS & frontend development
+       │
+2025 ──┼─ Built DocMind, Code Collab, Sokudo League & more
+       │   Explored RAG pipelines + real-time systems
+       │
+2026 ──┴─ Graduated B.E. · Looking for full-time SWE roles 🚀
 ```
 
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
-```
-
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -134,77 +146,87 @@
 
 <br/>
 
-<table>
-<tr><th align="left">Frontend</th><td>
-
-![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=B08D57) React.js, HTML5, CSS3, Responsive UI
-
-</td></tr>
-<tr><th align="left">Backend</th><td>
-
-![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=B08D57) Node.js, Express.js, REST API Design
-
-</td></tr>
-<tr><th align="left">Database</th><td>
-
-![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=B08D57) MongoDB — Schema Design, Aggregation Pipelines
-
-</td></tr>
-<tr><th align="left">Languages & Fundamentals</th><td>
-
-![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=B08D57) Java, JavaScript, DSA, OOP
-
-</td></tr>
-<tr><th align="left">AI Integration</th><td>
-
-![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=B08D57) RAG pipelines, LLM APIs
-
-</td></tr>
-<tr><th align="left">Tools & Practices</th><td>
-
-![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=B08D57) Git, GitHub, Agile, Code Review, Socket.io
-
-</td></tr>
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><b>🌐 Full-Stack</b></td>
+<td>MERN — MongoDB, Express.js, React.js, Node.js</td>
+</tr>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>React.js, HTML5, CSS3, Responsive UI Development</td>
+</tr>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>Node.js, Express.js, RESTful API Design & Integration</td>
+</tr>
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>MongoDB — Schema Design, Aggregation Pipelines, Query Optimization</td>
+</tr>
+<tr>
+<td><b>🧩 Languages & Fundamentals</b></td>
+<td>Java, JavaScript, Data Structures & Algorithms, OOP</td>
+</tr>
+<tr>
+<td><b>🤖 AI Integration</b></td>
+<td>Retrieval-Augmented Generation (RAG), LLM APIs</td>
+</tr>
+<tr>
+<td><b>🔧 Tools & Practices</b></td>
+<td>Git, GitHub, Agile Collaboration, Code Review, Socket.io</td>
+</tr>
 </table>
-
-<sub>*Bars are a rough self-assessment, not a benchmark — take them as a quick skim, not a scorecard.*</sub>
 
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 Projects
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🧠 DocMind
-*AI Document Intelligence Platform*
+<h3>🧠 DocMind</h3>
+<i>AI Document Intelligence Platform</i>
+<br/><br/>
 
 - Architected a **RAG-based semantic search** pipeline for accurate, context-aware querying across large document sets
 - Built a **citation-backed chat interface** for verifiable, auditable AI answers
 - Automated summary, quiz & flashcard generation end-to-end
 
+<br/>
+
 `MongoDB` `Express` `React` `Node.js` `RAG` `LLM APIs`
 
-<!-- TODO: point these at your real repo/demo -->
+<br/>
+
+<!-- TODO: replace # with your actual repo/demo links -->
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 [![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
-
-### 💻 Code Collab
-*Real-Time Collaborative Coding Platform*
+<h3>💻 Code Collab</h3>
+<i>Real-Time Collaborative Coding Platform</i>
+<br/><br/>
 
 - Built a real-time editor supporting **concurrent multi-user** code editing & execution via **Socket.io**
 - Designed secure authentication with integrated chat in one unified workspace
 - Streamlined coordination for distributed teams
 
+<br/>
+
 `MongoDB` `Express` `React` `Node.js` `Socket.io`
+
+<br/>
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 [![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
@@ -213,30 +235,38 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🎓 Student Freelance Marketplace
-*End-to-End Bidding & Hiring Platform*
+<h3>🎓 Student Freelance Marketplace</h3>
+<i>End-to-End Bidding & Hiring Platform</i>
+<br/><br/>
 
 - Designed a full marketplace workflow: **project posting → bidding → hiring**
 - Built secure authentication and **role-based dashboards** for students & clients
 - Improved access control and UX on both sides of the marketplace
 
+<br/>
+
 `MongoDB` `Express` `React` `Node.js`
+
+<br/>
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 [![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
-
-### ⌨️ Sokudo League
-*Competitive Typing Platform*
+<h3>⌨️ Sokudo League</h3>
+<i>Competitive Typing Platform</i>
+<br/><br/>
 
 - Built a **real-time multiplayer typing platform** with live races & instant leaderboards
 - Designed a **performance analytics engine** tracking speed & accuracy trends
 - Delivered through a premium, gaming-inspired UI
 
+<br/>
+
 `MongoDB` `Express` `React` `Node.js`
+
+<br/>
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 [![Demo](https://img.shields.io/badge/Live%20Demo-B08D57?style=flat-square&logo=vercel&logoColor=white)](#)
@@ -245,28 +275,30 @@
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
 
 ## 🏆 Certifications & Achievements
 
-<!-- TODO: swap in what you actually hold, delete the rest -->
+<!-- TODO: add/remove rows to match what you actually hold -->
+<div align="center">
+
 | Certification / Achievement | Issuer | Year |
 |---|---|---|
 | _e.g. Full-Stack Web Development_ | _e.g. Udemy / Coursera_ | _2025_ |
 | _e.g. Java DSA Specialization_ | _e.g. GeeksforGeeks_ | _2024_ |
 | _e.g. Hackathon Finalist_ | _e.g. Smart India Hackathon_ | _2025_ |
 
+</div>
+
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
-```
-
-## 📊 Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -289,23 +321,25 @@
 
 <br/>
 
+## 🐍 Contribution Graph
+
 <div align="center">
 
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/mohitesiddharth/mohitesiddharth/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 <!--END_SECTION:snake-->
 
-<sub>🐍 Set up the snake action via <a href="https://github.com/Platane/snk">Platane/snk</a> if it's not showing yet.</sub>
+<sub>✨ This animated snake eats your contribution graph — set it up in 2 minutes via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, see note below.</sub>
 
 </div>
 
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💭 Dev Quote
+<br/>
+
+## 💭 Random Dev Quote
 
 <div align="center">
 
@@ -315,26 +349,23 @@
 
 <br/>
 
-```diff
-+ ██████████████████████████████████████████████████████████████████
-```
-
-## 📡 Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-```text
-$ echo "Let's build something."
-> Open to full-time roles, collabs, and good conversations. I reply fast ⚡
-```
+I'm always open to interesting conversations, collaboration, or full-time opportunities.
+Reach out — I usually reply fast ⚡
 
-<a href="mailto:siddharthmohite.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-coming%20soon-B08D57?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitesiddharth)
 
-<br/><br/>
+</div>
 
-<sub>⭐ Thanks for stopping by — feel free to star a repo you like.</sub>
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B08D57,100:1B3654&height=150&section=footer" width="100%"/>
+
+<div align="center">
+<i>⭐ From <a href="https://github.com/mohitesiddharth">Siddharth Mohite</a> — thanks for stopping by! Feel free to star a repo you like.</i>
 </div>
