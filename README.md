@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3654,100:B08D57&height=220&section=header&text=Siddharth%20Mohite&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1B3654,100:B08D57&height=230&section=header&text=Siddharth%20Mohite&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=56&descSize=18" width="100%"/>
 
 <br/>
 
@@ -43,7 +43,7 @@ whoami:
   philosophy: "Ship end-to-end — design, build, deploy, own it."
 ```
 
-- 🎓 B.E. in Computer Engineering @ NBN Sinhgad School of Engineering, Pune *(CGPA: 8.72)* — **Graduated**
+- 🎓 B.E. in Computer Engineering @ NBN Sinhgad School of Engineering, Pune *(CGPA: 8.75)* — **Graduated**
 - 💼 Independently architected & shipped **production-grade** web apps end-to-end
 - 🧠 Strong fundamentals in **Java, DSA & OOP**, applied to real scalable systems
 - 🤖 Practical experience integrating **LLM APIs & Retrieval-Augmented Generation**
@@ -51,6 +51,51 @@ whoami:
 - ⚡ Fun fact: I've built a real-time multiplayer typing game *and* a live collaborative code editor — speed and concurrency excite me
 
 <br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🧠 Building**
+<br/>
+AI-powered document intelligence tools
+
+</td>
+<td align="center" width="25%">
+
+**📚 Learning**
+<br/>
+System Design & advanced RAG pipelines
+
+</td>
+<td align="center" width="25%">
+
+**🤝 Open To**
+<br/>
+Full-time SWE / Web Developer roles
+
+</td>
+<td align="center" width="25%">
+
+**💬 Ask Me About**
+<br/>
+React, Node.js, MongoDB, REST APIs
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -209,8 +254,8 @@ whoami:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitesiddharth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&icon_color=B08D57&text_color=c9d1d9&ring_color=B08D57"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitesiddharth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitesiddharth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&icon_color=B08D57&text_color=c9d1d9&ring_color=B08D57&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitesiddharth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&text_color=c9d1d9&cache_seconds=86400"/>
 
 <br/><br/>
 
@@ -218,7 +263,7 @@ whoami:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitesiddharth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B08D57&line=B08D57&point=ffffff&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitesiddharth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B08D57&line=B08D57&point=ffffff&area=true&cache_seconds=86400"/>
 
 <br/><br/>
 
@@ -271,7 +316,7 @@ Reach out — I usually reply fast ⚡
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B08D57,100:1B3654&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B08D57,100:1B3654&height=150&section=footer" width="100%"/>
 
 <div align="center">
 <i>⭐ From <a href="https://github.com/mohitesiddharth">Siddharth Mohite</a> — thanks for stopping by! Feel free to star a repo you like.</i>
