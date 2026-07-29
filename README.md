@@ -1,34 +1,81 @@
 <div align="center">
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=B08D57&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Siddharth+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;I+build+production-grade+web+apps;Currently+exploring+RAG+%26+LLM+APIs" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3654,100:B08D57&height=220&section=header&text=Siddharth%20Mohite&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3654&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20ideas%20into%20scalable%20software&descAlignY=58&descSize=16" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2800&pause=900&color=B08D57&center=true&vCenter=true&width=700&lines=Architecting+ideas+into+scalable+software+%F0%9F%9A%80;Building+production-grade+MERN+applications;Integrating+AI+%2F+RAG+into+real+products;Owning+features+from+design+to+deployment;Always+shipping.+Always+learning." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B3654?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mohitesiddharth)
+[![Email](https://img.shields.io/badge/Email-B08D57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3654?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Resume](https://img.shields.io/badge/Resume-B08D57?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/mohitesiddharth)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohitesiddharth&style=for-the-badge&color=1B3654&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/mohitesiddharth?style=for-the-badge&color=B08D57&labelColor=1B3654" alt="followers"/>
 
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
 ## 🧭 About Me
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="coding gif"/>
+
 ```yaml
-name: Siddharth Mohite
-role: Full-Stack Developer (MERN)
-focus: Building scalable web apps, REST APIs & AI-integrated products
-currently_learning: Retrieval-Augmented Generation, System Design
-education: B.E. Computer Engineering, Sinhgad Academy of Engineering
-location: Pune, India
-fun_fact: I ship features end-to-end — design → deploy → done ✅
+whoami:
+  name: "Siddharth Mohite"
+  role: "Full-Stack Developer (MERN)"
+  based_in: "Pune, India"
+  currently_building: "AI-powered document intelligence tools"
+  currently_learning: ["System Design", "Advanced RAG pipelines", "Cloud Deployment"]
+  languages: ["Java", "JavaScript"]
+  philosophy: "Ship end-to-end — design, build, deploy, own it."
 ```
 
-- 🔭 I'm currently building **AI-powered document intelligence tools**
-- 🌱 I'm deepening my knowledge of **DSA, System Design & LLM integrations**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, or REST API design**
-- ⚡ Fun fact: I once shipped a real-time collaborative code editor from scratch
+- 🎓 B.E. in Computer Engineering @ Sinhgad Academy of Engineering, Pune *(CGPA: 8.75)*
+- 💼 Independently architected & shipped **production-grade** web apps end-to-end
+- 🧠 Strong fundamentals in **Java, DSA & OOP**, applied to real scalable systems
+- 🤖 Practical experience integrating **LLM APIs & Retrieval-Augmented Generation**
+- 🎯 Actively seeking a full-time **Software Engineer / Web Developer** role
+- ⚡ Fun fact: I've built a real-time multiplayer typing game *and* a live collaborative code editor — speed and concurrency excite me
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## 🗺️ My Journey
+
+```text
+2020 ──┬─ Started Diploma in Computer Technology
+       │   Sou. Venutai Chavan Polytechnic, Pune  (86.20%)
+       │
+2022 ──┼─ Python Developer — Infeanet Digital Solution & Web Media
+       │   Built Django apps · Drove SEO strategy
+       │
+2023 ──┼─ Began B.E. in Computer Engineering
+       │   Sinhgad Academy of Engineering, Pune
+       │
+2024 ──┼─ Web Developer — Wisdom Sprouts IT Training Hub
+       │   Shipped React/Node production apps end-to-end
+       │
+2025 ──┼─ Built DocMind, Code Collab, Sokudo League & more
+       │   Explored RAG pipelines + real-time systems
+       │
+2026 ──┴─ Graduating · Looking for full-time SWE roles 🚀
+```
 
 <br/>
 
@@ -36,21 +83,50 @@ fun_fact: I ship features end-to-end — design → deploy → done ✅
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,java,html,css,git,github,postman,vscode&theme=dark" />
 
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><b>🌐 Full-Stack</b></td>
+<td>MERN — MongoDB, Express.js, React.js, Node.js</td>
+</tr>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>React.js, HTML5, CSS3, Responsive UI Development</td>
+</tr>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>Node.js, Express.js, RESTful API Design & Integration</td>
+</tr>
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>MongoDB — Schema Design, Aggregation Pipelines, Query Optimization</td>
+</tr>
+<tr>
+<td><b>🧩 Languages & Fundamentals</b></td>
+<td>Java, JavaScript, Data Structures & Algorithms, OOP</td>
+</tr>
+<tr>
+<td><b>🤖 AI Integration</b></td>
+<td>Retrieval-Augmented Generation (RAG), LLM APIs</td>
+</tr>
+<tr>
+<td><b>🔧 Tools & Practices</b></td>
+<td>Git, GitHub, Agile Collaboration, Code Review, Socket.io</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
@@ -60,44 +136,60 @@ fun_fact: I ship features end-to-end — design → deploy → done ✅
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+<h3>🧠 DocMind</h3>
+<i>AI Document Intelligence Platform</i>
+<br/><br/>
 
-### 🧠 [DocMind](https://github.com/Omkar6702)
-**AI Document Intelligence Platform**
+- Architected a **RAG-based semantic search** pipeline for accurate, context-aware querying across large document sets
+- Built a **citation-backed chat interface** for verifiable, auditable AI answers
+- Automated summary, quiz & flashcard generation end-to-end
 
-RAG-based semantic search with a citation-backed chat interface for verifiable, source-linked answers. Automates summaries, quizzes & flashcards.
+<br/>
 
 `MongoDB` `Express` `React` `Node.js` `RAG` `LLM APIs`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+<h3>💻 Code Collab</h3>
+<i>Real-Time Collaborative Coding Platform</i>
+<br/><br/>
 
-### 💻 [Code Collab](https://github.com/Omkar6702)
-**Real-Time Collaborative Coding Platform**
+- Built a real-time editor supporting **concurrent multi-user** code editing & execution via **Socket.io**
+- Designed secure authentication with integrated chat in one unified workspace
+- Streamlined coordination for distributed teams
 
-Multi-user live code editor with concurrent editing & execution via Socket.io, plus integrated chat and secure auth.
+<br/>
 
 `MongoDB` `Express` `React` `Node.js` `Socket.io`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+<h3>🎓 Student Freelance Marketplace</h3>
+<i>End-to-End Bidding & Hiring Platform</i>
+<br/><br/>
 
-### 🎓 Student Freelance Marketplace
-**Full Bidding & Hiring Workflow**
+- Designed a full marketplace workflow: **project posting → bidding → hiring**
+- Built secure authentication and **role-based dashboards** for students & clients
+- Improved access control and UX on both sides of the marketplace
 
-End-to-end marketplace connecting students and clients — project posting, bidding, hiring, and role-based dashboards.
+<br/>
 
 `MongoDB` `Express` `React` `Node.js`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+<h3>⌨️ Sokudo League</h3>
+<i>Competitive Typing Platform</i>
+<br/><br/>
 
-### ⌨️ Sokudo League
-**Competitive Typing Platform**
+- Built a **real-time multiplayer typing platform** with live races & instant leaderboards
+- Designed a **performance analytics engine** tracking speed & accuracy trends
+- Delivered through a premium, gaming-inspired UI
 
-Real-time multiplayer typing races with live leaderboards and a performance analytics engine tracking speed & accuracy.
+<br/>
 
 `MongoDB` `Express` `React` `Node.js`
 
@@ -109,39 +201,78 @@ Real-time multiplayer typing races with live leaderboards and a performance anal
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Omkar6702&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&icon_color=B08D57&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar6702&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&text_color=c9d1d9"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar6702&theme=tokyonight&hide_border=true&background=0D1117&ring=B08D57&fire=B08D57&currStreakLabel=B08D57"/>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitesiddharth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&icon_color=B08D57&text_color=c9d1d9&ring_color=B08D57"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitesiddharth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar6702&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B08D57&line=B08D57&point=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitesiddharth&theme=tokyonight&hide_border=true&background=0D1117&ring=B08D57&fire=B08D57&currStreakLabel=B08D57"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitesiddharth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B08D57&line=B08D57&point=ffffff&area=true"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohitesiddharth&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## 🐍 Contribution Graph
 
 <div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/mohitesiddharth/mohitesiddharth/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<!--END_SECTION:snake-->
+
+<sub>✨ This animated snake eats your contribution graph — set it up in 2 minutes via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, see note below.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations, collaboration, or full-time opportunities.
+Reach out — I usually reply fast ⚡
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkar6702)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitesiddharth)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3654&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B08D57,100:1B3654&height=150&section=footer" width="100%"/>
 
 <div align="center">
-<i>⭐ From <a href="https://github.com/Omkar6702">Siddharth Mohite</a> — thanks for stopping by!</i>
+<i>⭐ From <a href="https://github.com/mohitesiddharth">Siddharth Mohite</a> — thanks for stopping by! Feel free to star a repo you like.</i>
 </div>
