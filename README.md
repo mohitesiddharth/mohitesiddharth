@@ -43,7 +43,7 @@ whoami:
   philosophy: "Ship end-to-end — design, build, deploy, own it."
 ```
 
-- 🎓 B.E. in Computer Engineering @ Sinhgad Academy of Engineering, Pune *(CGPA: 8.75)*
+- 🎓 B.E. in Computer Engineering @ NBN Sinhgad School of Engineering, Pune *(CGPA: 8.72)* — **Graduated**
 - 💼 Independently architected & shipped **production-grade** web apps end-to-end
 - 🧠 Strong fundamentals in **Java, DSA & OOP**, applied to real scalable systems
 - 🤖 Practical experience integrating **LLM APIs & Retrieval-Augmented Generation**
@@ -66,15 +66,15 @@ whoami:
        │   Built Django apps · Drove SEO strategy
        │
 2023 ──┼─ Began B.E. in Computer Engineering
-       │   Sinhgad Academy of Engineering, Pune
+       │   NBN Sinhgad School of Engineering, Pune
        │
-2024 ──┼─ Web Developer — Wisdom Sprouts IT Training Hub
-       │   Shipped React/Node production apps end-to-end
+2024 ──┼─ Frontend Intern — Algorithm Electronics
+       │   Handled HTML, CSS & frontend development
        │
 2025 ──┼─ Built DocMind, Code Collab, Sokudo League & more
        │   Explored RAG pipelines + real-time systems
        │
-2026 ──┴─ Graduating · Looking for full-time SWE roles 🚀
+2026 ──┴─ Graduated B.E. · Looking for full-time SWE roles 🚀
 ```
 
 <br/>
