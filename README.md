@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1B3654,100:B08D57&height=230&section=header&text=Siddharth%20Mohite&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3654,100:B08D57&height=230&section=header&text=Siddharth%20Mohite&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=56&descSize=18" width="100%"/>
 
 <br/>
 
@@ -10,12 +10,10 @@
 
 <br/><br/>
 
-<p align="center">
-  <a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/-Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=B08D57&labelColor=0B1120"/></a>
-  <a href="mailto:siddharthmohite.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-0B1120?style=for-the-badge&logo=gmail&logoColor=B08D57&labelColor=0B1120"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=B08D57&labelColor=0B1120"/></a>
-  <a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/-Resume-0B1120?style=for-the-badge&logo=readdotcv&logoColor=B08D57&labelColor=0B1120"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B3654?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mohitesiddharth)
+[![Email](https://img.shields.io/badge/Email-B08D57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3654?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Resume](https://img.shields.io/badge/Resume-B08D57?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/mohitesiddharth)
 
 <br/>
 
@@ -307,22 +305,12 @@ React, Node.js, MongoDB, REST APIs
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3654,100:B08D57&height=90&section=header" width="60%"/>
-
-### 💬 Got an idea, a role, or just want to talk tech?
-
 I'm always open to interesting conversations, collaboration, or full-time opportunities.
-**Reach out — I usually reply fast ⚡**
+Reach out — I usually reply fast ⚡
 
-<br/>
-
-<a href="mailto:siddharthmohite.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B3654"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B3654"/></a>
-<a href="https://github.com/mohitesiddharth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=B08D57"/></a>
-
-<br/><br/>
-
-<i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthmohite.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitesiddharth)
 
 </div>
 
