@@ -30,7 +30,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="coding gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding animation"/>
 
 ```yaml
 whoami:
@@ -282,7 +282,7 @@ React, Node.js, MongoDB, REST APIs
 <img src="https://raw.githubusercontent.com/mohitesiddharth/mohitesiddharth/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 <!--END_SECTION:snake-->
 
-
+<sub>✨ This animated snake eats your contribution graph — set it up in 2 minutes via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, see note below.</sub>
 
 </div>
 
