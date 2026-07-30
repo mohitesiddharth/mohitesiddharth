@@ -282,7 +282,7 @@ React, Node.js, MongoDB, REST APIs
 <img src="https://raw.githubusercontent.com/mohitesiddharth/mohitesiddharth/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 <!--END_SECTION:snake-->
 
-<sub>✨ This animated snake eats your contribution graph — set it up in 2 minutes via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, see note below.</sub>
+
 
 </div>
 
