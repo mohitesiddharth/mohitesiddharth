@@ -254,8 +254,9 @@ React, Node.js, MongoDB, REST APIs
 
 <div align="center">
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=mohitesiddharth&theme=tokyonight"/>
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=mohitesiddharth&theme=tokyonight"/>
+<img height="45" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitesiddharth&label=Public%20Repos&query=%24.public_repos&color=B08D57&labelColor=1B3654&style=for-the-badge"/>
+<img height="45" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitesiddharth&label=Followers&query=%24.followers&color=B08D57&labelColor=1B3654&style=for-the-badge"/>
+<img height="45" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitesiddharth&label=Following&query=%24.following&color=B08D57&labelColor=1B3654&style=for-the-badge"/>
 
 <br/><br/>
 
