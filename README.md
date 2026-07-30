@@ -254,8 +254,8 @@ React, Node.js, MongoDB, REST APIs
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitesiddharth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&icon_color=B08D57&text_color=c9d1d9&ring_color=B08D57&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitesiddharth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B08D57&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=mohitesiddharth&theme=tokyonight"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=mohitesiddharth&theme=tokyonight"/>
 
 <br/><br/>
 
