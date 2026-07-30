@@ -292,11 +292,57 @@ React, Node.js, MongoDB, REST APIs
 
 <br/>
 
-## 💭 Random Dev Quote
+## 💭 Words I Code By
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h1>❝</h1>
+
+*Stay hungry, stay foolish.*
+
+**— Steve Jobs**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h1>❝</h1>
+
+*Talk is cheap. Show me the code.*
+
+**— Linus Torvalds**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h1>❝</h1>
+
+*Imagination is more important than knowledge.*
+
+**— Albert Einstein**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h1>❝</h1>
+
+*Any fool can write code a computer understands. Good programmers write code humans understand.*
+
+**— Martin Fowler**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3><i>"When something is important enough, you do it even if the odds are not in your favor."</i></h3>
+<sub><b>— Elon Musk</b></sub>
 
 </div>
 
